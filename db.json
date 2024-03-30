@@ -1,81 +1,27 @@
 {
   "students": [
     {
-      "id": 1,
-      "name": "mehedi",
-      "email": "mehedi@example.com",
-      "phone": "+8801512123754"
+      "id": "2a12",
+      "name": "Md Mehedi Hassan",
+      "email": "mehedi@gmail.com",
+      "phone": "09876543221"
     },
     {
-      "id": 2,
+      "id": "68b2",
+      "name": "Mehedi",
+      "email": "Mehedi@hotmail.com",
+      "phone": "1212167119"
+    },
+    {
+      "id": "cbf4",
       "name": "hassan",
-      "email": "hassan@example.com",
-      "phone": "+8801512123754"
-    },
-    {
-      "id": 3,
-      "name": "mehefsdfsdfdi",
-      "email": "mehefsdfsdfdi@example.com",
-      "phone": "+8801512123754"
-    },
-    {
-      "id": 4,
-      "name": "dfdf",
-      "email": "dfdf@example.com",
-      "phone": "+8801512123754"
-    },
-    {
-      "id": 5,
-      "name": "mehefdi",
-      "email": "mehefdi@example.com",
-      "phone": "+8801512123754"
-    },
-    {
-      "id": 6,
-      "name": "dfddsfdsff",
-      "email": "dfddsfdsff@example.com",
-      "phone": "+8801512123754"
-    },
-    {
-      "name": "test editing",
-      "email": "testediting@gmail.com",
-      "phone": "0000000000000",
-      "id": 7
-    },
-    {
-      "name": "zxczxczxczxc",
-      "email": "zxcxzcxzczxczxc",
-      "phone": "zxczxcxzczxczxczxczx",
-      "id": 8
-    },
-    {
-      "name": "xzczxczxczxczxcxzc",
-      "email": "zxczxcxzcxz",
-      "phone": "zcxzczxczxc",
-      "id": 9
-    },
-    {
-      "name": "zxczxcxzcxzc",
-      "email": "xzczxczxc",
-      "phone": "zxcxzczxczxcxzczxcz",
-      "id": 10
-    },
-    {
-      "name": "zxczxczx",
-      "email": "zxcxzczx",
-      "phone": "zxcxzcxzc",
-      "id": 11
-    },
-    {
-      "name": "zxczxczxc",
-      "email": "zxczxczxc",
-      "phone": "zxczxczx",
-      "id": 12
+      "email": "hassan@outlook.com",
+      "phone": "34234234234"
     }
   ],
   "comments": [
     {
-      "id": 1,
+      "id": "1",
       "body": "some comment",
       "postId": 1
     }
